@@ -11,7 +11,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyCp4C-DrKuLUxS9yo9VyBYa5CZxm1Q3NBI",
   authDomain: "ia-medica-6f09e.firebaseapp.com",
   projectId: "ia-medica-6f09e",
-  storageBucket: "ia-medica-6f09e.firebasestorage.app",
+| storageBucket: "ia-medica-6f09e.appspot.com",
   messagingSenderId: "747957864751",
   appId: "1:747957864751:web:a09686be84ed0b3b5db9da",
   measurementId: "G-LMMPNVF9LB"
