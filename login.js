@@ -8,12 +8,13 @@ import {
 } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js";
 
 const firebaseConfig = {
-  apiKey: "TU_API_KEY",
-  authDomain: "TU_DOMINIO.firebaseapp.com",
-  projectId: "TU_PROJECT_ID",
-  storageBucket: "TU_STORAGE_BUCKET",
-  messagingSenderId: "TU_MESSAGING_SENDER_ID",
-  appId: "TU_APP_ID"
+apiKey: "AIzaSyCp4C-DrKuLUxS9yo9VyBYa5CZxm1Q3NBI",
+  authDomain: "ia-medica-6f09e.firebaseapp.com",
+  projectId: "ia-medica-6f09e",
+  storageBucket: "ia-medica-6f09e.firebasestorage.app",
+  messagingSenderId: "747957864751",
+  appId: "1:747957864751:web:a09686be84ed0b3b5db9da",
+  measurementId: "G-LMMPNVF9LB"
 };
 
 const app = initializeApp(firebaseConfig);
